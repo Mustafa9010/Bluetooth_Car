@@ -35,11 +35,6 @@ This robot car responds to Bluetooth commands sent from a smartphone or any othe
 - **Jumper Wires**: For connecting components.
 
 ---
-
-## **Circuit Diagram**
-
-![Circuit Diagram](Arduino-Robot-Car-Circuit-Diagram.png)
-
 ---
 
 ## **Connections**
@@ -115,9 +110,3 @@ Each action is implemented using dedicated functions (`forward()`, `reverse()`, 
 - Introduce a **battery monitoring system** to track power levels.
 
 ---
-
-## **License**
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to modify and use this project as needed!
